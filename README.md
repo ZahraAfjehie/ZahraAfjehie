@@ -35,4 +35,17 @@ The aim was to thoroughly understand the features and ensure a clean dataset bef
 
 Throughout the competition, I achieved my best submission by employing the GradientBoostingClassifier, conducting extensive experimentation, and attaining an 85% training score with a Mean Absolute Error (MAE) of 0.1944. Detailed analysis and results can be found in the notebook.
 
+## Portfolio Projects
+There are four distinct projects, each focusing on a specific skill within the data analysis field:
 
+1. The first project involves Excel, where Pivot tables and dashboards are created using Buyer's Bike Sales data. [Bike Sales Dashboards in Excel](https://github.com/ZahraAfjehie/PortfolioProjects/blob/main/Excel%20Project%20Dataset.xlsx)
+
+2. The second project utilizes SQL to calculate various metrics and ratings for analyzing global COVID-19 deaths and vaccination statistics. [COVID 19
+Data Exploration in SQL](https://github.com/ZahraAfjehie/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+
+3. The third project employs Power BI to transform data, create visualizations, and design dashboards for a dataset containing surveys from data professionals. [Data Professional Survey
+Exploration in Power BI](https://github.com/ZahraAfjehie/PortfolioProjects/blob/main/Power%20BI%20-%20Final%20Project.pbix)
+
+4. The final project revolves around Tableau, where dashboards are generated using data sourced from Airbnb listings and reviews. [Airbnb Listings and Reviews Data Exploration in Tableau](https://public.tableau.com/app/profile/zahra4196/viz/AirBnBFullProject_16944577478060/Dashboard1)
+
+This portfolio project was completed as part of the data analytics bootcamp instructed by Alexander Freberg [AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst)
