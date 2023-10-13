@@ -20,11 +20,9 @@ Here are the scatter plots representing clustering metrics, with different clust
 </p>
 
 ## SpaceShip-Titanic-Kaggle-Competition
-
-  This project not only addresses a critical task in space travel but also provides an opportunity to showcase our data science skills in a competitive setting on Kaggle. [Full Project](https://github.com/ZahraAfjehie/SpaceShip-Titanic-Kaggle-Competition)
  
 In the Spaceship Titanic Kaggle competition, the goal is to predict passenger survival on a futuristic interstellar spaceship. The dataset contains information about passengers, their cabin class, age, gender, and other attributes. Using machine learning techniques, we aim to build a model that can accurately predict whether passengers survived the journey.
-The aim was to thoroughly understand the features and ensure a clean dataset before building models to predict the "Transported" target variable.
+The aim was to thoroughly understand the features and ensure a clean dataset before building models to predict the "Transported" target variable. [Full Project](https://github.com/ZahraAfjehie/SpaceShip-Titanic-Kaggle-Competition)
  <p align="center" width="100%">
 <img width="539" alt="image" src="https://github.com/ZahraAfjehie/SpaceShip-Titanic-Kaggle-Competition/assets/13051084/915f9179-9c1e-4693-afc3-39e8b8443ed2">
 
