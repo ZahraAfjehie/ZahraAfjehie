@@ -15,8 +15,9 @@ The Fast-Moving Consumer Goods (FMCG) project involves the task of identifying t
 Here are the scatter plots representing clustering metrics, with different clusters depicted using varying colors to represent products within specific categories:
 
 
-
-<img width="332" alt="image" src="https://github.com/ZahraAfjehie/FMCG_Project/assets/13051084/7316d510-f12d-4479-aff4-35c264fa880d">
+ <p align="center" width="100%">
+    <img  width="332" alt="image" src="https://github.com/ZahraAfjehie/FMCG_Project/assets/13051084/7316d510-f12d-4479-aff4-35c264fa880d"> 
+</p>
 
 ## SpaceShip-Titanic-Kaggle-Competition
 
@@ -24,38 +25,39 @@ Here are the scatter plots representing clustering metrics, with different clust
  
 In the Spaceship Titanic Kaggle competition, the goal is to predict passenger survival on a futuristic interstellar spaceship. The dataset contains information about passengers, their cabin class, age, gender, and other attributes. Using machine learning techniques, we aim to build a model that can accurately predict whether passengers survived the journey.
 The aim was to thoroughly understand the features and ensure a clean dataset before building models to predict the "Transported" target variable.
-
+ <p align="center" width="100%">
 <img width="539" alt="image" src="https://github.com/ZahraAfjehie/SpaceShip-Titanic-Kaggle-Competition/assets/13051084/915f9179-9c1e-4693-afc3-39e8b8443ed2">
 
 <img width="342" alt="image" src="https://github.com/ZahraAfjehie/SpaceShip-Titanic-Kaggle-Competition/assets/13051084/81a61001-0299-4d40-9e7a-fdcb00e8c4b1">
 
 <img width="533" alt="image" src="https://github.com/ZahraAfjehie/SpaceShip-Titanic-Kaggle-Competition/assets/13051084/a95e3f75-1d73-41b8-946b-3a59a04546e8">
-
+</p>
                               Sample plots generated during the statistical analysis.
 
 Throughout the competition, I achieved my best submission by employing the GradientBoostingClassifier, conducting extensive experimentation, and attaining an 85% training score with a Mean Absolute Error (MAE) of 0.1944. Detailed analysis and results can be found in the notebook.
 
-## Portfolio Projects
+# PortfolioProjects
 There are four distinct projects, each focusing on a specific skill within the data analysis field:
 
 1. The first project involves Excel, where Pivot tables and dashboards are created using Buyer's Bike Sales data. [Bike Sales Dashboards in Excel](https://github.com/ZahraAfjehie/PortfolioProjects/blob/main/Excel%20Project%20Dataset.xlsx)
-   
-<img width="498" alt="image" src="https://github.com/ZahraAfjehie/ZahraAfjehie/assets/13051084/73132219-27ee-4a25-8cc4-a9e39d7d914f">
-
-
+ <p align="center" width="100%">
+    <img width="498" alt="image" src="https://github.com/ZahraAfjehie/ZahraAfjehie/assets/13051084/73132219-27ee-4a25-8cc4-a9e39d7d914f.png"> 
+</p>
+ 
 2. The second project utilizes SQL to calculate various metrics and ratings for analyzing global COVID-19 deaths and vaccination statistics. [COVID 19
 Data Exploration in SQL](https://github.com/ZahraAfjehie/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
 
 
 3. The third project employs Power BI to transform data, create visualizations, and design dashboards for a dataset containing surveys from data professionals. [Data Professional Survey
 Exploration in Power BI](https://github.com/ZahraAfjehie/PortfolioProjects/blob/main/Power%20BI%20-%20Final%20Project.pbix)
-
-<img width="581" alt="image" src="https://github.com/ZahraAfjehie/ZahraAfjehie/assets/13051084/91221527-bb27-4111-9b80-33b85ed8c5cb">
-
+ <p align="center" width="100%">
+    <img width="581" alt="image" src="https://github.com/ZahraAfjehie/ZahraAfjehie/assets/13051084/91221527-bb27-4111-9b80-33b85ed8c5cb"> 
+</p>
 
 4. The final project revolves around Tableau, where dashboards are generated using data sourced from Airbnb listings and reviews. [Airbnb Listings and Reviews Data Exploration in Tableau](https://public.tableau.com/app/profile/zahra4196/viz/AirBnBFullProject_16944577478060/Dashboard1)
-   
- <img width="928" alt="image" src="https://github.com/ZahraAfjehie/ZahraAfjehie/assets/13051084/a51fdbe5-1ad8-4397-bc28-3d3d6859b4b2">
+    <p align="center" width="100%">
+    <img  width="928" alt="image" src="https://github.com/ZahraAfjehie/ZahraAfjehie/assets/13051084/a51fdbe5-1ad8-4397-bc28-3d3d6859b4b2"> 
+</p>
 
 
 This portfolio project was completed as part of the data analytics bootcamp instructed by Alexander Freberg [AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst)
